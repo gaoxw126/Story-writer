@@ -2,4 +2,12 @@
 title: Linux使用
 tags: Ubuntu,Linux
 --
-Github binding by.
+
+```c++
+#include <iostream>
+
+int main(int argc, char* argv[])
+{
+    
+}
+```
